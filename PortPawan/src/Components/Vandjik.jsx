@@ -3,7 +3,7 @@ import Jurgen from "../assets/Jurgen.png";
 function Vandjik() {
   return (
     <div className="w-full h-full  bg-[#DC0714] p-20 cursor-pointer">
-      <div className="lg:ml-10 lg:mt-10 sm:m-10 w-[800px] shadow-xl">
+      <div className="lg:ml-10 mt-10 w-[800px] shadow-xl">
         <div className="  ">
           <img src={Jurgen} alt="" className="p-4" />
           <p className=" py-5 underline border-slate-200 border-b-[1px]"></p>
