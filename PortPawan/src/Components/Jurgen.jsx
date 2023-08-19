@@ -2,8 +2,8 @@ import React from "react";
 import react from "../assets/react.svg";
 function Jurgen() {
   return (
-    <div className="w-full h-full  bg-[#FFD700] px-40 py-10 cursor-pointer">
-      <div className="lg:ml-10 mt-6 w-[800px] ">
+    <div className="w-full h-full  bg-[#FFD700] px-40 py-20 cursor-pointer">
+      <div className="lg:ml-10 mt-10 w-[800px] ">
         <div className="text-black py-10 transition ease-in-out   ">
           <a href="" className="cursor-pointer">
             <p className="text-4xl  p-20">
