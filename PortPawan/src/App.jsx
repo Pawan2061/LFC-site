@@ -1,4 +1,6 @@
+import Fixtures from "./Components/Fixtures";
 import Hero from "./Components/Hero";
+import Jurgen from "./Components/Jurgen";
 import LowHero from "./Components/LowHero";
 import LowNav from "./Components/LowNav";
 import NewKits from "./Components/NewKits";
@@ -17,6 +19,8 @@ function App() {
       <Video />
       <ViewGallery />
       <Vandjik />
+      <Fixtures />
+      <Jurgen />
     </div>
   );
 }

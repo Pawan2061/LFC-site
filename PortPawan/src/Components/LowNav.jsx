@@ -12,7 +12,7 @@ function LowNav() {
           />
         </div>
 
-        <div class="lg:flex md:hidden sm:hidden ">
+        <div class="lg:flex md:hidden sm:hidden  ">
           <ul class="flex gap-8 items-center list-none text-white font-bold text-2xl">
             <li className="transition ease-in-out   hover:scale-110   duration-300 ">
               <button>News&Fixture</button>
