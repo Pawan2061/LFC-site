@@ -35,12 +35,13 @@
 // export default App;
 
 import React from "react";
+import Login from "./RoutingComponents/Login";
 import Signup from "./RoutingComponents/Signup";
 
 function App() {
   return (
     <div>
-      <Signup />
+      <Login />
     </div>
   );
 }
