@@ -3,6 +3,22 @@ import React from "react";
 function Signup() {
   return (
     <div className="bg-[#DC0714] pt-20 pl-10 pr-10 pb-10">
+      <div className="flex justify-between items-center">
+        <div className="text-white text-2xl font-semibold mb-10 underline ">
+          <a href="">Back to the site</a>
+        </div>
+        <div className="mb-10">
+          <h1 className="text-3xl text-white font-semibold ">LFC</h1>
+        </div>
+
+        <div className="w-[50px] h-[50px] mb-10">
+          <img
+            className="rounded-full "
+            src="https://png.pngtree.com/png-vector/20220724/ourmid/pngtree-great-britain-or-england-flag-png-circle-transparent-background-png-image_6049673.png"
+            alt="britain"
+          />
+        </div>
+      </div>
       <div className="bg-gray-200 flex flex-col justify-center items-center py-20  ">
         <div className="text-3xl text-red-600 font-semibold py-10">
           <p>WHY JOIN LFC COMMUNITY?</p>
@@ -35,7 +51,7 @@ function Signup() {
         <h1 className="text-4xl p-10 text-red-600 items-center justify-center flex">
           Join the Lfc community
         </h1>
-        <div className="items-center justify-center flex">
+        <div className="items-center justify-center flex py-10">
           <form className="w-[400px]">
             <div class="relative z-0 w-full mb-6 group">
               <input
