@@ -8,7 +8,7 @@ function Login() {
           <a href="">Back to the site</a>
         </div>
         <div className="mb-10">
-          <h1 className="text-3xl text-white font-semibold ">LFC</h1>
+          <h1 className="text-3xl text-white font-semibold ">Liverpool</h1>
         </div>
 
         <div className="w-[50px] h-[50px] mb-10">
